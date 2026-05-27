@@ -1,0 +1,6 @@
+{
+  "name": "SecureShield",
+  "description": "An all-in-one privacy vault, encrypted file locker, and application shielding system guarded by advanced cryptography, PIN, Pattern, and Biometrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
